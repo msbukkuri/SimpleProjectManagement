@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProjectManagement", "SimpleProjectManagement\SimpleProjectManagement.csproj", "{8ECF3BCD-3553-4345-B640-9EEDEB1E712F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProjectManagement.Tests", "SimpleProjectManagement.Tests\SimpleProjectManagement.Tests.csproj", "{91F7AF43-3EBB-437C-9CF3-AB3D1526B745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECF3BCD-3553-4345-B640-9EEDEB1E712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECF3BCD-3553-4345-B640-9EEDEB1E712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECF3BCD-3553-4345-B640-9EEDEB1E712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECF3BCD-3553-4345-B640-9EEDEB1E712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F7AF43-3EBB-437C-9CF3-AB3D1526B745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F7AF43-3EBB-437C-9CF3-AB3D1526B745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F7AF43-3EBB-437C-9CF3-AB3D1526B745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F7AF43-3EBB-437C-9CF3-AB3D1526B745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

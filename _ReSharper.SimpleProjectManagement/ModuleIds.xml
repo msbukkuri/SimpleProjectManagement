@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="8ECF3BCD-3553-4345-B640-9EEDEB1E712F" ModuleId="SimpleProjectManagement" />
+  <Module PersistentId="91F7AF43-3EBB-437C-9CF3-AB3D1526B745" ModuleId="SimpleProjectManagement.Tests" />
+</Modules>

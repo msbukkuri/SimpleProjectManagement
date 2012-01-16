@@ -1,0 +1,70 @@
+﻿<use namespace="System.Linq" />
+<viewdata model="SimpleProjectManagement.Features.DashboardViewModel" />
+<content:main>
+  <div class="content">
+    <div class="page-header">
+      <h1>
+        Kanban Board!
+      </h1>
+    </div>
+    <div class="span8 offset4">
+      <button id="createStoryButton" class="btn">Create Story</button>
+
+      <div id="createStoryModal" style="display:none">
+        <h3>Create Story</h3>
+        <div class="close">x</div>
+        <div>
+          <form action="/Stories" method="POST">
+            <div class="clearfix">
+              ${ this.LabelFor(m => m.StoryModel.Name) }
+              ${ this.InputFor(m => m.StoryModel.Name) }
+            </div>
+            <div class="clearfix">
+              ${ this.LabelFor(m => m.StoryModel.Status) }
+              ${ this.InputFor(m => m.StoryModel.Status) }
+            </div>
+            <div class="clearfix">
+              ${ this.LabelFor(m => m.StoryModel.PointValue) }
+              ${ this.InputFor(m => m.StoryModel.PointValue) }
+              <div class="well">
+                <a href="#" class="btn small primary">Create</a>
+                <a id="close" href="#" class="btn small default">Cancel</a>
+              </div>
+            </div>
+            <input type="submit">Test</input>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!--<div class="alert-message warning">
+      <p>Super Test</p>
+    </div>-->
+    <br/>
+    <table class="zebra-striped">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Status</th>
+          <th>PointValue</th>
+        </tr>
+      </thead>
+      <tbody>
+        <if condition="Model.Stories.Any()">
+          <tr each="var story in Model.Stories">
+            <td>${story.Name}</td>
+            <td>${story.Status}</td>
+            <td>${story.PointValue}</td>
+          </tr>
+        </if>
+        <else>
+          <tr>
+            <td colspan="3" class="alert-message warning">
+              <p>No stories here.</p>
+            </td>
+          </tr>
+        </else>
+      </tbody>
+    </table>
+  </div>
+</content:main>

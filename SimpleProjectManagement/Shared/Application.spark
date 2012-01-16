@@ -1,0 +1,39 @@
+﻿<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title></title>
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <link rel="stylesheet" type="text/css" href="../Content/styles/bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="../Content/styles/jquery-ui-1.8.16.custom.css" />
+        <script type="text/javascript" src="../Content/scripts/lib/bootstrap-modal.js"></script>
+        <script type="text/javascript" src="../Content/scripts/lib/jquery-1.6.2.min.js"></script>
+        <script type="text/javascript" src="../Content/scripts/lib/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="../Content/scripts/master.js"></script>
+    </head>
+    <body>
+        <div class="topbar">
+            <div class="fill">
+                <div class="container">
+                    <a class="brand" href="#">test!</a>
+                    <ul class="nav">
+                        <li class="active"><a href="#">HOME</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="page-header">
+            <h2>
+                TEST</h2>
+        </div>
+        <div class="container">
+            <use content="main" />
+        </div>
+        <footer class="container">
+          <p>&copy; test - Maanas Bukkuri 2011</p>
+        </footer>
+    </body>
+</html>

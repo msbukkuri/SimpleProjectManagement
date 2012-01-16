@@ -1,0 +1,312 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:FeaturesMarker.cs" caret="31" fromTop="0" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/f:Global.asax.cs" caret="698" fromTop="23" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Configuration/d:Bootstrapping/f:CoreRegistry.cs" caret="396" fromTop="12" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:GetHandler.cs" caret="957" fromTop="34" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Models/f:JsonResponse.cs" caret="420" fromTop="16" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Configuration/f:SimpleProjectManagementRegistry.cs" caret="389" fromTop="13" />
+      <File id="91F7AF43-3EBB-437C-9CF3-AB3D1526B745/f:when_displaying_the_dashboard.cs" caret="1061" fromTop="33" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Models/f:Story.cs" caret="67" fromTop="2" />
+      <File id="91F7AF43-3EBB-437C-9CF3-AB3D1526B745/f:when_creating_a_story.cs" caret="1318" fromTop="37" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:scripts/d:lib/f:jquery-1.6.2.min.js" caret="362" fromTop="13" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:scripts/d:lib/f:jquery-ui-1.8.16.custom.min.js" caret="0" fromTop="0" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:scripts/d:lib/f:bootstrap-modal.js" caret="0" fromTop="0" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:styles/f:bootstrap.css" caret="45279" fromTop="11" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Shared/f:Application.spark" caret="1299" fromTop="25" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:scripts/f:master.js" caret="132" fromTop="2" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="0" fromTop="0" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Repositories/f:IStoryListRepository.cs" caret="549" fromTop="21" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/d:Stories/f:PostHandler.cs" caret="625" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="19" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="28" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="39" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="10" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="65" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="37" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="14" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="13" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="46" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="12" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3448" fromTop="18" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="123" fromTop="3" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3471" fromTop="34" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Shared/f:Application.spark" caret="1627" fromTop="15" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Shared/f:Application.spark" caret="940" fromTop="11" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Shared/f:Application.spark" caret="949" fromTop="16" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Shared/f:Application.spark" caret="35" fromTop="2" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="2248" fromTop="16" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="2248" fromTop="11" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="2248" fromTop="30" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Content/d:scripts/f:master.js" caret="132" fromTop="2" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="2248" fromTop="13" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="2122" fromTop="42" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3094" fromTop="29" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="3348" fromTop="35" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="481" fromTop="13" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="1619" fromTop="28" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="1037" fromTop="16" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/f:Dashboard.spark" caret="764" fromTop="15" />
+      <File id="8ECF3BCD-3553-4345-B640-9EEDEB1E712F/d:Features/d:Stories/f:PostHandler.cs" caret="625" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="169" />
+      <Item value="class" priority="213" />
+      <Item value="span16" priority="23" />
+      <Item value="h1" priority="5" />
+      <Item value="h2" priority="23" />
+      <Item value="fieldset" priority="11" />
+      <Item value="table" priority="5" />
+      <Item value="zebra-striped" priority="12" />
+      <Item value="span12" priority="6" />
+      <Item value="span2" priority="5" />
+      <Item value="th" priority="5" />
+      <Item value="tr" priority="17" />
+      <Item value="td" priority="23" />
+      <Item value="input" priority="38" />
+      <Item value="type" priority="17" />
+      <Item value="text" priority="5" />
+      <Item value="button" priority="32" />
+      <Item value="btn" priority="5" />
+      <Item value="success" priority="5" />
+      <Item value="danger" priority="6" />
+      <Item value="min" priority="5" />
+      <Item value="value" priority="10" />
+      <Item value="container" priority="40" />
+      <Item value="br" priority="35" />
+      <Item value="a" priority="17" />
+      <Item value="header" priority="5" />
+      <Item value="hero-unit" priority="11" />
+      <Item value="p" priority="11" />
+      <Item value="content" priority="19" />
+      <Item value="page-header" priority="12" />
+      <Item value="small" priority="5" />
+      <Item value="page" priority="4" />
+      <Item value="important" priority="5" />
+      <Item value="container-fluid" priority="4" />
+      <Item value="topbar-inner" priority="6" />
+      <Item value="span4" priority="11" />
+      <Item value="span8" priority="5" />
+      <Item value="span" priority="5" />
+      <Item value="label" priority="30" />
+      <Item value="offset4" priority="5" />
+      <Item value="em" priority="5" />
+      <Item value="b" priority="4" />
+      <Item value="row" priority="5" />
+      <Item value="title" priority="5" />
+      <Item value="legend" priority="5" />
+      <Item value="submit" priority="19" />
+      <Item value="reset" priority="9" />
+      <Item value="primary" priority="12" />
+      <Item value="actions" priority="5" />
+      <Item value="form" priority="11" />
+      <Item value="for" priority="6" />
+      <Item value="clearfix" priority="6" />
+      <Item value="search" priority="6" />
+      <Item value="select" priority="4" />
+      <Item value="id" priority="17" />
+      <Item value="stackedSelect" priority="11" />
+      <Item value="option" priority="35" />
+      <Item value="modal" priority="11" />
+      <Item value="fade" priority="17" />
+      <Item value="hide" priority="17" />
+      <Item value="in" priority="11" />
+      <Item value="my-modal" priority="5" />
+      <Item value="modal-header" priority="5" />
+      <Item value="h3" priority="5" />
+      <Item value="href" priority="11" />
+      <Item value="trace.axd" priority="5" />
+      <Item value="close" priority="12" />
+      <Item value="Stories" priority="6" />
+      <Item value="style" priority="6" />
+      <Item value="display" priority="6" />
+      <Item value="content:main" priority="5" />
+      <Item value="details" priority="5" />
+      <Item value="canvas" priority="5" />
+      <Item value="caption" priority="5" />
+      <Item value="code" priority="5" />
+      <Item value="inputs-list" priority="5" />
+      <Item value="name" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.RouteConventionExpression">
+      <Item value="HomeIs`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="HelloOutputModel" priority="26" />
+      <Item value="public" priority="348" />
+      <Item value="DashboardViewModel`0" priority="63" />
+      <Item value="DashboardRequestModel`0" priority="31" />
+      <Item value="requestModel" priority="32" />
+      <Item value="return" priority="127" />
+      <Item value="new" priority="447" />
+      <Item value="DashboardViewModel" priority="28" />
+      <Item value="Applies" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="typeof" priority="32" />
+      <Item value="SimpleProjectManagement" priority="30" />
+      <Item value="x" priority="191" />
+      <Item value="FubuRegistry`0" priority="31" />
+      <Item value="using" priority="30" />
+      <Item value="FeaturesMarker`0" priority="30" />
+      <Item value="void" priority="159" />
+      <Item value="Test" priority="63" />
+      <Item value="IExpectException`0" priority="31" />
+      <Item value="IStoryListRepository`0" priority="157" />
+      <Item value="class" priority="92" />
+      <Item value="private" priority="63" />
+      <Item value="IEnumerable" priority="158" />
+      <Item value="_storyList" priority="95" />
+      <Item value="ctor" priority="31" />
+      <Item value="IList&lt;Story&gt;" priority="28" />
+      <Item value="string" priority="89" />
+      <Item value="Stories" priority="31" />
+      <Item value="var" priority="159" />
+      <Item value="IList" priority="31" />
+      <Item value="story" priority="159" />
+      <Item value="Story" priority="89" />
+      <Item value="MockFor`1" priority="63" />
+      <Item value="CreateStoryInputModel`0" priority="31" />
+      <Item value="r" priority="63" />
+      <Item value="Name" priority="64" />
+      <Item value="inputModel" priority="224" />
+      <Item value="Status" priority="65" />
+      <Item value="PointValue" priority="65" />
+      <Item value="int" priority="32" />
+      <Item value="ClassUnderTest" priority="63" />
+      <Item value="VerifyCallsFor`1" priority="62" />
+      <Item value="readonly" priority="31" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="bool" priority="31" />
+      <Item value="_errors" priority="63" />
+      <Item value="error" priority="63" />
+      <Item value="JsonResponse" priority="28" />
+      <Item value="Success" priority="31" />
+      <Item value="true" priority="32" />
+      <Item value="Id" priority="63" />
+      <Item value="response" priority="31" />
+      <Item value="PostHandler`0" priority="31" />
+      <Item value="Required" priority="63" />
+      <Item value="PNUnit" priority="31" />
+      <Item value="Story`0" priority="63" />
+      <Item value="DashboardRequestModel" priority="57" />
+      <Item value="s" priority="31" />
+      <Item value="List`0" priority="31" />
+      <Item value="Scan`0" priority="31" />
+      <Item value="Profile`0" priority="31" />
+      <Item value="For`0" priority="31" />
+      <Item value="StoryListRepository`0" priority="62" />
+      <Item value="For`1" priority="31" />
+      <Item value="FubuPackageRegistry`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.AppliesToExpression">
+      <Item value="ToThisAssembly`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.ConfigureFubuMVC">
+      <Item value="ApplyHandlerConventions`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FubuMVC.Core.FubuApplication">
+      <Item value="For`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="AddRegistry`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.FubuApplication">
+      <Item value="Bootstrap`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.Repositories.IStoryListRepository">
+      <Item value="Insert`0" priority="26" />
+      <Item value="GetAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.Features.CreateStoryInputModel">
+      <Item value="Name" priority="55" />
+      <Item value="Status" priority="55" />
+      <Item value="PointValue" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Fill`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Repeat" priority="26" />
+      <Item value="Return`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.Features.GetHandler">
+      <Item value="Execute`0" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.Features.DashboardViewModel">
+      <Item value="Stories" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ShouldContain`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleProjectManagement.Models.Story">
+      <Item value="Id" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Expect`1" priority="26" />
+      <Item value="Equals`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Graph.IAssemblyScanner">
+      <Item value="TheCallingAssembly`0" priority="26" />
+      <Item value="LookForRegistries`0" priority="49" />
+      <Item value="WithDefaultConventions`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Use`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Bottles.PackageRegistry">
+      <Item value="AssertNoFailures`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="showModalDialog" priority="10" />
+      <Item value="function" priority="21" />
+      <Item value="return" priority="10" />
+      <Item value="alert" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="display" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="SimpleProjectManagement.Tests.when_creating_a_story" type="NUnitTestFixtureElement" Project="91F7AF43-3EBB-437C-9CF3-AB3D1526B745" />
+        <UnitTestElement Provider="nUnit" Id="SimpleProjectManagement.Tests.when_displaying_the_dashboard" type="NUnitTestFixtureElement" Project="91F7AF43-3EBB-437C-9CF3-AB3D1526B745" />
+        <UnitTestElement Provider="nUnit" Id="SimpleProjectManagement.Tests.when_displaying_the_dashboard.should_display_stories" ParentId="SimpleProjectManagement.Tests.when_displaying_the_dashboard" type="NUnitTestElement" TypeName="SimpleProjectManagement.Tests.when_displaying_the_dashboard" MethodName="should_display_stories" Project="91F7AF43-3EBB-437C-9CF3-AB3D1526B745" />
+        <UnitTestElement Provider="nUnit" Id="SimpleProjectManagement.Tests.when_creating_a_story.should_insert_story" ParentId="SimpleProjectManagement.Tests.when_creating_a_story" type="NUnitTestElement" TypeName="SimpleProjectManagement.Tests.when_creating_a_story" MethodName="should_insert_story" Project="91F7AF43-3EBB-437C-9CF3-AB3D1526B745" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>
